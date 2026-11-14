@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- shoulders -->
+    <path
+        android:fillColor="#E6F7FF"
+        android:pathData="M31,80 C31,67 41,61 54,61 C67,61 77,67 77,80 Z" />
+    <!-- head -->
+    <path
+        android:fillColor="#E6F7FF"
+        android:pathData="M54,31 a13,13 0 1,0 0.01,0 Z" />
+    <!-- headset band -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4DD0E1"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M38,46 C38,27 70,27 70,46" />
+    <!-- ear cups -->
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M34,42 h7 a2,2 0 0 1 2,2 v10 a2,2 0 0 1 -2,2 h-7 a2,2 0 0 1 -2,-2 v-10 a2,2 0 0 1 2,-2 Z" />
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M67,42 h7 a2,2 0 0 1 2,2 v10 a2,2 0 0 1 -2,2 h-7 a2,2 0 0 1 -2,-2 v-10 a2,2 0 0 1 2,-2 Z" />
+    <!-- mic boom -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4DD0E1"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M37,56 C37,66 45,68 52,68" />
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M53,65 a3,3 0 1,0 0.01,0 Z" />
+</vector>
